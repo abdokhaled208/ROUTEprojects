@@ -31,7 +31,12 @@ public class DataTypes {
           true = 1
           */
                  System.out.println("Bool: " + hamada);
+                 /*
+                 hello from the other side
+                  */
+
               }
 
              static boolean hamada; // default false 1 usage
+
     }
