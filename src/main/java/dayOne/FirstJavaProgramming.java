@@ -5,8 +5,8 @@ public class FirstJavaProgramming {
     {
        // Variable Declaration & Initialization
                 // DataType variableName = value;
-                String firstName = "Yara"; // Store text into variable
-                String lastName = "Mostafa";
+                String firstName = "Abdelrhman"; // Store text into variable
+                String lastName = "khaled";
                 String X="10";
                 String Y="20";
                 System.out.println(X+Y);
